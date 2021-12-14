@@ -1,5 +1,4 @@
 import React from "react";
-
 import { Box, Container } from "@chakra-ui/react";
 
 import Navigation from "../../navigation/Navigation/Navigation";
