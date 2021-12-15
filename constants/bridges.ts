@@ -21,5 +21,4 @@ export const bridges = [
 		tokens: "https://bridge.arbitrum.io/token-list-42161.json",
 		supportsContractWallet: false,
 	},
-
 ];

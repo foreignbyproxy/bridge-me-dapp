@@ -1,9 +1,12 @@
 import type { NextPage } from "next";
 
+import FilterForm from "../components/forms/FilterForm/FilterForm";
+
+
 const Home: NextPage = () => {
 	return (
 		<div>
-			Home
+			<FilterForm />
 		</div>
 	);
 };

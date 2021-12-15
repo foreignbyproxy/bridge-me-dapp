@@ -8,7 +8,6 @@ interface Props {
 	containerWidth: string;
 	containerHeight: string;
 }
-
 export default function Layout({
 	children,
 	containerWidth = "container.xl",
